@@ -1,0 +1,7 @@
+fastapi
+langchain_core 
+langgraph
+langgraph-checkpoint-sqlite
+langchain_google_genai
+python-dotenv
+uvicorn
